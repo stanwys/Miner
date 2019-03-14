@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1493377527 source:c:\users\staszek\documents\informatyka\informatyka-_pp\1rok_2sem\programowanie_niskopoziomowe\saper\menu.cpp
+	"deklaracjefunkcji.hpp"
+
+1493290714 c:\users\staszek\documents\informatyka\informatyka-_pp\1rok_2sem\programowanie_niskopoziomowe\saper\deklaracjefunkcji.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<fstream>
+	<stdio.h>
+	<stack>
+	<queue>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+
+1493291061 source:c:\users\staszek\documents\informatyka\informatyka-_pp\1rok_2sem\programowanie_niskopoziomowe\saper\obliczanie.cpp
+	"deklaracjefunkcji.hpp"
+
+1493291272 source:c:\users\staszek\documents\informatyka\informatyka-_pp\1rok_2sem\programowanie_niskopoziomowe\saper\save_write_results.cpp
+	"deklaracjefunkcji.hpp"
+
+1493291319 source:c:\users\staszek\documents\informatyka\informatyka-_pp\1rok_2sem\programowanie_niskopoziomowe\saper\main.cpp
+	"deklaracjefunkcji.hpp"
+
+1493291320 source:e:\saper\main.cpp
+	"deklaracjefunkcji.hpp"
+
+1493290716 e:\saper\deklaracjefunkcji.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<fstream>
+	<stdio.h>
+	<stack>
+	<queue>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+
+1493377528 source:e:\saper\menu.cpp
+	"deklaracjefunkcji.hpp"
+
+1493291062 source:e:\saper\obliczanie.cpp
+	"deklaracjefunkcji.hpp"
+
+1493291274 source:e:\saper\save_write_results.cpp
+	"deklaracjefunkcji.hpp"
+
